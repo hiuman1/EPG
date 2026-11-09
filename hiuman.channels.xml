@@ -19,15 +19,18 @@
   <channel id="CanalPlus-4K">1:0:1F:330D:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-4K">1:0:1F:330E:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Dokument">1:0:1:3D8A:2C88:13E:820000:0:0:0:</channel>
+  <channel id="CanalPlus-Dokument">1:0:1:32CF:190:13E:820000:0:0:0:</channel>
   <channel id="Domo">1:0:1:113D:2AF8:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Extra-1">1:0:1:1136:2AF8:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Extra-2">1:0:1:3783:44C:13E:820000:0:0:0:</channel>
+  <channel id="CanalPlus-Extra-2">1:0:1:1137:2AF8:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Extra-3">1:0:1:32E3:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Extra-4">1:0:1:32E4:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Film">1:0:1:32CE:190:13E:820000:0:0:0:</channel>
   <channel id="Kuchnia-TV">1:0:1:113E:2AF8:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus">1:0:1:32DC:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Seriale">1:0:1:3D89:2C88:13E:820000:0:0:0:</channel>
+  <channel id="CanalPlus-Seriale">1:0:1:32D0:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Sport">1:0:1:32DE:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Sport-2">1:0:1:3A9C:514:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Sport-3">1:0:1:3AD2:514:13E:820000:0:0:0:</channel>
@@ -76,6 +79,7 @@
   <channel id="Kino-Polska">1:0:1:37B6:44C:13E:820000:0:0:0:</channel>
   <channel id="Metro-TV">1:0:19:3DD4:640:13E:820000:0:0:0:</channel>
   <channel id="Mezzo">1:0:1:422B:2F44:13E:820000:0:0:0:</channel>
+  <channel id="Mezzo">1:0:1:37A0:44C:13E:820000:0:0:0:</channel>
   <channel id="MiniMini">1:0:1:32E0:190:13E:820000:0:0:0:</channel>
   <channel id="Nat-Geo-People">1:0:1:2907:1EDC:71:820000:0:0:0:</channel>
   <channel id="National-Geographic">1:0:1:32DF:190:13E:820000:0:0:0:</channel>
@@ -140,9 +144,11 @@
   <channel id="TVP-1">1:0:1:3ABD:514:13E:820000:0:0:0:</channel>
   <channel id="TVP-2">1:0:1:C22:1E78:71:820000:0:0:0:</channel>
   <channel id="TVP-ABC">1:0:1:3D5F:2C88:13E:820000:0:0:0:</channel>
+  <channel id="TVP-ABC">1:0:1:1404:5DC:13E:820000:0:0:0:</channel>
   <channel id="tvp-dokument">1:0:1:3A9D:514:13E:820000:0:0:0:</channel>
   <channel id="TVP-HD">1:0:1:1138:2AF8:13E:820000:0:0:0:</channel>
   <channel id="TVP-Historia">1:0:1:3D67:2C88:13E:820000:0:0:0:</channel>
+  <channel id="TVP-Historia">1:0:1:1405:5DC:13E:820000:0:0:0:</channel>
   <channel id="tvp-historia-2">1:0:1:3D67:2C88:13E:820000:0:0:0:</channel>
   <channel id="TVP-Info">1:0:1:1139:2AF8:13E:820000:0:0:0:</channel>
   <channel id="TVP-Kobieta">1:0:1F:36:3A2:2268:EEEE0000:0:0:0:</channel>
@@ -192,6 +198,7 @@
   <channel id="nuta-gold-onet">1:0:1:3D76:2C88:13E:820000:0:0:0:</channel>
   <channel id="nuta-gold-onet">1:0:1:140E:5DC:13E:820000:0:0:0:</channel>
   <channel id="motowizja-onet">1:0:1:3D56:2C88:13E:820000:0:0:0:</channel>
+  <channel id="motowizja-onet">1:0:1:1402:5DC:13E:820000:0:0:0:</channel>
   <channel id="fightbox-onet">1:0:1:3E24:2EE0:13E:820000:0:0:0:</channel>
   <channel id="polsat-sport-premium-1-onet">1:0:1:709:32C8:13E:820000:0:0:0:</channel>
   <channel id="polsat-sport-premium-2-onet">1:0:1:70A:32C8:13E:820000:0:0:0:</channel>
