@@ -21,6 +21,8 @@
   <channel id="CanalPlus-4K">1:0:1F:32DB:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-4K">1:0:1F:330D:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-4K">1:0:1F:330E:190:13E:820000:0:0:0:</channel>
+  <channel id="CanalPlus-4K">1:0:1F:3304:190:13E:820000:0:0:0:</channel>
+  <channel id="CanalPlus-4K">1:0:1F:3322:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Dokument">1:0:1:3301:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Dokument">1:0:1:32CF:190:13E:820000:0:0:0:</channel>
   <channel id="Domo">1:0:1:113D:2AF8:13E:820000:0:0:0:</channel>
@@ -40,6 +42,8 @@
   <channel id="CanalPlus-Seriale">1:0:1:32D0:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Seriale">1:0:1:3302:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Sport">1:0:1:32DE:190:13E:820000:0:0:0:</channel>
+  <channel id="CanalPlus-Sport">1:0:1:3324:190:13E:820000:0:0:0:</channel>
+  <channel id="CanalPlus-Sport">1:0:1:32FC:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Sport-2">1:0:1:3A9C:514:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Sport-3">1:0:1:3AD2:514:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Sport-4">1:0:1:3AD3:514:13E:820000:0:0:0:</channel>
@@ -92,6 +96,7 @@
   <channel id="MiniMini">1:0:1:32E0:190:13E:820000:0:0:0:</channel>
   <channel id="MiniMini">1:0:1:3308:190:13E:820000:0:0:0:</channel>
   <channel id="MiniMini">1:0:1:32FD:190:13E:820000:0:0:0:</channel>
+  <channel id="MiniMini">1:0:1:32FE:190:13E:820000:0:0:0:</channel>
   <channel id="Nat-Geo-People">1:0:1:2907:1EDC:71:820000:0:0:0:</channel>
   <channel id="National-Geographic">1:0:1:32DF:190:13E:820000:0:0:0:</channel>
   <channel id="Nat-Geo-Wild">1:0:1:13F6:5DC:13E:820000:0:0:0:</channel>
