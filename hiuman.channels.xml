@@ -39,6 +39,8 @@
   <channel id="CanalPlus">1:0:1:32DC:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus">1:0:1:32F0:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus">1:0:1:32FA:190:13E:820000:0:0:0:</channel>
+  <channel id="CanalPlus">1:0:1:3304:190:13E:820000:0:0:0:</channel>
+  <channel id="CanalPlus">1:0:1:3322:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Seriale">1:0:1:32D0:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Seriale">1:0:1:3302:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Sport">1:0:1:32DE:190:13E:820000:0:0:0:</channel>
