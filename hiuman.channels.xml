@@ -21,8 +21,9 @@
   <channel id="CanalPlus-4K">1:0:1F:32DB:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-4K">1:0:1F:330D:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-4K">1:0:1F:330E:190:13E:820000:0:0:0:</channel>
-  <channel id="CanalPlus-Dokument">1:0:1:3301:190:13E:820000:0:0:0:</channel>
+  <channel id="CanalPlus-Dokument">1:0:1:3D8A:2C88:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Dokument">1:0:1:32CF:190:13E:820000:0:0:0:</channel>
+  <channel id="CanalPlus-Dokument">1:0:1:3D58:2C88:13E:820000:0:0:0:</channel>
   <channel id="Domo">1:0:1:113D:2AF8:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Extra-1">1:0:1:1136:2AF8:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Extra-2">1:0:1:3783:44C:13E:820000:0:0:0:</channel>
@@ -39,8 +40,9 @@
   <channel id="CanalPlus">1:0:1:32FA:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus">1:0:1:3304:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus">1:0:1:3322:190:13E:820000:0:0:0:</channel>
+  <channel id="CanalPlus-Seriale">1:0:1:3D89:2C88:13E:820000:0:0:0:</channel>
+  <channel id="CanalPlus-Seriale">1:0:1:32D0:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Seriale">1:0:1:3D57:2C88:13E:820000:0:0:0:</channel>
-  <channel id="CanalPlus-Seriale">1:0:1:3389:2C88:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Sport">1:0:1:32DE:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Sport">1:0:1:3324:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Sport">1:0:1:32FC:190:13E:820000:0:0:0:</channel>
