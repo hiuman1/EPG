@@ -2,8 +2,6 @@
 <channels>
   <channel id="13-Ulica">1:0:1:3E26:2EE0:13E:820000:0:0:0:</channel>
   <channel id="Ale-Kino">1:0:1:32FD:190:13E:820000:0:0:0:</channel>
-  <channel id="Ale-Kino">1:0:1:331B:190:13E:820000:0:0:0:</channel>
-  <channel id="Ale-Kino">1:0:1:32CB:190:13E:820000:0:0:0:</channel>
   <channel id="AMC">1:0:1:1401:5DC:13E:820000:0:0:0:</channel>
   <channel id="Animal-Planet-HD">1:0:19:3B66:12C:13E:820000:0:0:0:</channel>
   <channel id="Antena-HD">1:0:1:140C:5DC:13E:820000:0:0:0:</channel>
@@ -16,11 +14,11 @@
   <channel id="BBC-First">1:0:1:1133:2AF8:13E:820000:0:0:0:</channel>
   <channel id="BBC-Lifestyle">1:0:1:7DB:22C4:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-1">1:0:1:3D55:2C88:13E:820000:0:0:0:</channel>
-  <channel id="CanalPlus-1">1:0:1:3D87:2C88:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-360">1:0:1:1131:2AF8:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-4K">1:0:1F:32DB:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-4K">1:0:1F:330D:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-4K">1:0:1F:330E:190:13E:820000:0:0:0:</channel>
+  <channel id="CanalPlus-Dokument">1:0:1:3301:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Dokument">1:0:1:3D8A:2C88:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Dokument">1:0:1:32CF:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Dokument">1:0:1:3D58:2C88:13E:820000:0:0:0:</channel>
@@ -29,23 +27,15 @@
   <channel id="CanalPlus-Extra-2">1:0:1:3783:44C:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Extra-2">1:0:1:1137:2AF8:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Extra-3">1:0:1:32E3:190:13E:820000:0:0:0:</channel>
-  <channel id="CanalPlus-Extra-3">1:0:1:3315:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Extra-4">1:0:1:32E4:190:13E:820000:0:0:0:</channel>
-  <channel id="CanalPlus-Extra-4">1:0:1:3316:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Film">1:0:1:32CE:190:13E:820000:0:0:0:</channel>
-  <channel id="CanalPlus-Film">1:0:1:3300:190:13E:820000:0:0:0:</channel>
   <channel id="Kuchnia-TV">1:0:1:113E:2AF8:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus">1:0:1:32DC:190:13E:820000:0:0:0:</channel>
-  <channel id="CanalPlus">1:0:1:32F0:190:13E:820000:0:0:0:</channel>
-  <channel id="CanalPlus">1:0:1:32FA:190:13E:820000:0:0:0:</channel>
-  <channel id="CanalPlus">1:0:1:3304:190:13E:820000:0:0:0:</channel>
-  <channel id="CanalPlus">1:0:1:3322:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Seriale">1:0:1:3D89:2C88:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Seriale">1:0:1:32D0:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Seriale">1:0:1:3D57:2C88:13E:820000:0:0:0:</channel>
+  <channel id="CanalPlus-Seriale">1:0:1:3389:2C88:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Sport">1:0:1:32DE:190:13E:820000:0:0:0:</channel>
-  <channel id="CanalPlus-Sport">1:0:1:3324:190:13E:820000:0:0:0:</channel>
-  <channel id="CanalPlus-Sport">1:0:1:32FC:190:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Sport-2">1:0:1:3A9C:514:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Sport-3">1:0:1:3AD2:514:13E:820000:0:0:0:</channel>
   <channel id="CanalPlus-Sport-4">1:0:1:3AD3:514:13E:820000:0:0:0:</channel>
@@ -78,7 +68,6 @@
   <channel id="FilmBox-Arthouse">1:0:1:428A:2BC0:13E:820000:0:0:0:</channel>
   <channel id="Filmbox-Premium">1:0:1:3789:44C:13E:820000:0:0:0:</channel>
   <channel id="Kino%20TV">1:0:1:37BC:44C:13E:820000:0:0:0:</channel>
-  <channel id="Kino%20TV">1:0:1:378A:44C:13E:820000:0:0:0:</channel>
   <channel id="Fokus-TV">1:0:1:429D:2BC0:13E:820000:0:0:0:</channel>
   <channel id="Food-Network">1:0:19:3DD9:640:13E:820000:0:0:0:</channel>
   <channel id="Food-Network">1:0:19:3DEC:640:13E:820000:0:0:0:</channel>
@@ -96,8 +85,6 @@
   <channel id="Mezzo">1:0:1:422B:2F44:13E:820000:0:0:0:</channel>
   <channel id="Mezzo">1:0:1:37A0:44C:13E:820000:0:0:0:</channel>
   <channel id="MiniMini">1:0:1:32E0:190:13E:820000:0:0:0:</channel>
-  <channel id="MiniMini">1:0:1:3308:190:13E:820000:0:0:0:</channel>
-  <channel id="MiniMini">1:0:1:32FE:190:13E:820000:0:0:0:</channel>
   <channel id="Nat-Geo-People">1:0:1:2907:1EDC:71:820000:0:0:0:</channel>
   <channel id="National-Geographic">1:0:1:32DF:190:13E:820000:0:0:0:</channel>
   <channel id="Nat-Geo-Wild">1:0:1:13F6:5DC:13E:820000:0:0:0:</channel>
