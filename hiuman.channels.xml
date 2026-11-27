@@ -21,14 +21,12 @@
   <channel id="CanalPlus-4K">1:0:1F:32DB:190:13E:820000:0:0:0:</channel> <!-- CANAL+ 4K -->
   <channel id="CanalPlus-4K">1:0:1F:330D:190:13E:820000:0:0:0:</channel> <!-- CANAL+ 4K -->
   <channel id="CanalPlus-4K">1:0:1F:330E:190:13E:820000:0:0:0:</channel> <!-- CANAL+ 4K -->
-  <channel id="CanalPlus-Dokument">1:0:1:3D8A:2C88:13E:820000:0:0:0:</channel> <!-- CANAL+ Dokument -->
   <channel id="CanalPlus-Dokument">1:0:1:32CF:190:13E:820000:0:0:0:</channel> <!-- CANAL+ Dokument -->
   <channel id="CanalPlus-Dokument">1:0:1:3301:190:13E:820000:0:0:0:</channel> <!-- CANAL+ Dokument -->
-  <channel id="CanalPlus-Dokument">1:0:1:3D58:190:13E:820000:0:0:0:</channel> <!-- CANAL+ Dokument -->
   <channel id="Domo">1:0:1:113D:2AF8:13E:820000:0:0:0:</channel> <!-- CANAL+ Domo -->
   <channel id="CanalPlus-Extra-1">1:0:1:1136:2AF8:13E:820000:0:0:0:</channel> <!-- CANAL+ Extra 1 -->
-  <channel id="CanalPlus-Extra-2">1:0:1:3783:44C:13E:820000:0:0:0:</channel> <!-- CANAL+ Extra 2 -->
   <channel id="CanalPlus-Extra-2">1:0:1:1137:2AF8:13E:820000:0:0:0:</channel> <!-- CANAL+ Extra 2 -->
+  <channel id="CanalPlus-Extra-2">1:0:1:1169:2AF8:13E:820000:0:0:0:</channel> <!-- CANAL+ Extra 2 -->
   <channel id="CanalPlus-Extra-3">1:0:1:32E3:190:13E:820000:0:0:0:</channel> <!-- CANAL+ Extra 3 -->
   <channel id="CanalPlus-Extra-3">1:0:1:3315:190:13E:820000:0:0:0:</channel> <!-- CANAL+ Extra 3 -->
   <channel id="CanalPlus-Extra-4">1:0:1:32E4:190:13E:820000:0:0:0:</channel> <!-- CANAL+ Extra 4 -->
@@ -41,10 +39,8 @@
   <channel id="CanalPlus">1:0:1:32FA:190:13E:820000:0:0:0:</channel> <!-- CANAL+ Premium -->
   <channel id="CanalPlus">1:0:1:3304:190:13E:820000:0:0:0:</channel> <!-- CANAL+ Premium -->
   <channel id="CanalPlus">1:0:1:3322:190:13E:820000:0:0:0:</channel> <!-- CANAL+ Premium -->
-  <channel id="CanalPlus-Seriale">1:0:1:3D89:2C88:13E:820000:0:0:0:</channel> <!-- CANAL+ Seriale -->
   <channel id="CanalPlus-Seriale">1:0:1:32D0:190:13E:820000:0:0:0:</channel> <!-- CANAL+ Seriale -->
-  <channel id="CanalPlus-Seriale">1:0:1:3389:190:13E:820000:0:0:0:</channel> <!-- CANAL+ Seriale -->
-  <channel id="CanalPlus-Seriale">1:0:1:3D57:190:13E:820000:0:0:0:</channel> <!-- CANAL+ Seriale -->
+  <channel id="CanalPlus-Seriale">1:0:1:3302:190:13E:820000:0:0:0:</channel> <!-- CANAL+ Seriale -->
   <channel id="CanalPlus-Sport">1:0:1:32DE:190:13E:820000:0:0:0:</channel> <!-- CANAL+ Sport -->
   <channel id="CanalPlus-Sport">1:0:1:32FC:190:13E:820000:0:0:0:</channel> <!-- CANAL+ Sport -->
   <channel id="CanalPlus-Sport">1:0:1:3324:190:13E:820000:0:0:0:</channel> <!-- CANAL+ Sport -->
@@ -162,7 +158,6 @@
   <channel id="TVN-24-Biznes-i-Swiat">1:0:19:10EA:3E8:13E:820000:0:0:0:</channel> <!-- TVN24 BiS -->
   <channel id="TVP-1">1:0:1:3ABD:514:13E:820000:0:0:0:</channel> <!-- TVP 1 -->
   <channel id="TVP-2">1:0:1:C22:1E78:71:820000:0:0:0:</channel> <!-- TVP 2 -->
-  <channel id="TVP-ABC">1:0:1:3D5F:2C88:13E:820000:0:0:0:</channel> <!-- TVP ABC -->
   <channel id="TVP-ABC">1:0:1:1404:5DC:13E:820000:0:0:0:</channel> <!-- TVP ABC -->
   <channel id="tvp-dokument">1:0:1:3A9D:514:13E:820000:0:0:0:</channel> <!-- TVP Dokument -->
   <channel id="TVP-HD">1:0:1:1138:2AF8:13E:820000:0:0:0:</channel> <!-- TVP HD -->
@@ -213,7 +208,6 @@
   <channel id="vox-music-tv-onet">1:0:1:2910:1EDC:71:820000:0:0:0:</channel> <!-- Vox Music TV -->
   <channel id="nuta-gold-onet">1:0:1:3D76:2C88:13E:820000:0:0:0:</channel> <!-- Nuta Gold -->
   <channel id="nuta-gold-onet">1:0:1:140E:5DC:13E:820000:0:0:0:</channel> <!-- Nuta Gold -->
-  <channel id="motowizja-onet">1:0:1:3D56:2C88:13E:820000:0:0:0:</channel> <!-- Motowizja -->
   <channel id="motowizja-onet">1:0:1:1402:5DC:13E:820000:0:0:0:</channel> <!-- Motowizja -->
   <channel id="fightbox-onet">1:0:1:3E24:2EE0:13E:820000:0:0:0:</channel> <!-- Fightbox -->
   <channel id="water-planet-onet">1:0:1:423E:3D88:13E:820000:0:0:0:</channel> <!-- Water Planet -->
