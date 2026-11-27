@@ -166,7 +166,6 @@
   <channel id="TVP-ABC">1:0:1:1404:5DC:13E:820000:0:0:0:</channel> <!-- TVP ABC -->
   <channel id="tvp-dokument">1:0:1:3A9D:514:13E:820000:0:0:0:</channel> <!-- TVP Dokument -->
   <channel id="TVP-HD">1:0:1:1138:2AF8:13E:820000:0:0:0:</channel> <!-- TVP HD -->
-  <channel id="TVP-Historia">1:0:1:3D67:2C88:13E:820000:0:0:0:</channel> <!-- TVP Historia -->
   <channel id="TVP-Historia">1:0:1:1405:5DC:13E:820000:0:0:0:</channel> <!-- TVP Historia -->
   <channel id="TVP-Info">1:0:1:1139:2AF8:13E:820000:0:0:0:</channel> <!-- TVP Info -->
   <channel id="TVP-Kobieta">1:0:1F:36:3A2:2268:EEEE0000:0:0:0:</channel> <!-- TVP Kobieta -->
